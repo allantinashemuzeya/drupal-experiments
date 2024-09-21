@@ -2,3 +2,5 @@
 /web/sites/default/settings.php
 /web/core/
 /web/modules/contrib/
+
+web/themes/contrib/gin/dist/css/base/gin.css
